@@ -37,11 +37,11 @@
     
 <li>🌨️ <a href="https://yechuanjie.com/project_index/#/mapswiper?id=2&name=%E7%B2%92%E5%AD%90%E5%9B%BE%E8%BD%AE%E6%92%AD">粒子图轮播</a></li>
     
-<li>🔨 <a href="https://yechuanjie.com/goldman/">黄金矿工</a></li>
+<li>🔨 <a href="https://yechuanjie.com/goldman/">黄金矿工（移动端）</a></li>
 
 <li>🕰️ <a href="https://yechuanjie.com/project_index/#/bumping?id=1&name=%E7%A2%B0%E5%A3%81%E5%8F%8D%E5%BC%B9">碰壁反弹</a></li>
 
-<li>🔥 <a href="https://yechuanjie.com/lottie_demo/#/">lottie动画</a></li>
+<li>🔥 <a href="https://yechuanjie.com/lottie_demo/#/">lottie动画（移动端）</a></li>
   
 </ul>
  
