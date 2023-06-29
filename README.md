@@ -35,7 +35,7 @@
 
 <ul>
     
-<li>🌙 <a href="https://github.com/wanglin2/json-tree-view">一个简洁的json格式化插件</a></li>
+<li>🌙 <a href="https://yechuanjie.com/project_index/#/mapswiper?id=2&name=%E7%B2%92%E5%AD%90%E5%9B%BE%E8%BD%AE%E6%92%AD">粒子图轮播</a></li>
     
 <li>☀️ <a href="https://github.com/wanglin2/simple-novice-guide">一个简洁的新手引导库</a></li>
 
