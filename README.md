@@ -27,8 +27,6 @@
 
 🏢 目前在一家在线教育公司工作，坐标重庆
 
-<img align="right" src="http://assets.lxqnsys.com/WechatIMG875%20%284%29.png" />
-
 <img align="right"  src="http://assets.lxqnsys.com/%E5%8D%83%E5%BA%93%E7%BD%91_%E7%BC%96%E7%A8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%86%99%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%89%A9_%E5%85%83%E7%B4%A0%E7%BC%96%E5%8F%B713134110.png" width="200" />
 
 <h2>💡 一些有意思的小项目 ↓</h2>
