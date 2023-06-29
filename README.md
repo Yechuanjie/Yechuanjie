@@ -35,29 +35,13 @@
 
 <ul>
     
-<li>🌙 <a href="https://yechuanjie.com/project_index/#/mapswiper?id=2&name=%E7%B2%92%E5%AD%90%E5%9B%BE%E8%BD%AE%E6%92%AD">粒子图轮播</a></li>
+<li>🌨️ <a href="https://yechuanjie.com/project_index/#/mapswiper?id=2&name=%E7%B2%92%E5%AD%90%E5%9B%BE%E8%BD%AE%E6%92%AD">粒子图轮播</a></li>
     
-<li>☀️ <a href="https://github.com/wanglin2/simple-novice-guide">一个简洁的新手引导库</a></li>
+<li>🔨 <a href="https://yechuanjie.com/goldman/">黄金矿工</a></li>
 
-<li>🔠 <a href="https://github.com/wanglin2/canvas-editor-demo">用canvas做一个富文本编辑器</a></li>
+<li>🕰️ <a href="https://yechuanjie.com/project_index/#/bumping?id=1&name=%E7%A2%B0%E5%A3%81%E5%8F%8D%E5%BC%B9">碰壁反弹</a></li>
 
-<li>🔥 <a href="https://github.com/wanglin2/simple-flow-chart">用flex布局做一个流程设计器</a></li>
-
-<li>🕰️ <a href="https://github.com/wanglin2/VideoTimeLine">一个基于Vue2的视频时间轴组件</a></li>
-
-<li>🔨 <a href="https://github.com/wanglin2/VNode_visualization">虚拟DOM的diff算法动画演示</a></li>
-
-<li>🧵 <a href="https://github.com/wanglin2/AssociationLineDemo">关联线探究，如何连接流程图的两个节点</a></li>
-
-<li>🌲 <a href="https://github.com/wanglin2/tree_layout">绘制一棵漂亮的树，可用于绘制思维导图</a></li>
-
-<li>📃 <a href="https://github.com/wanglin2/markdown_editor_sync_scroll_demo">如何实现一个能精确同步滚动的Markdown编辑器</a></li>
-
-<li>🖌️ <a href="https://github.com/wanglin2/handPaintedStyle">手绘风格图形的简单实现</a></li>
-
-<li>✏️ <a href="https://github.com/wanglin2/textUnderline">文本划线的极简实现</a></li>
-
-<li>🌨️ <a href="https://github.com/wanglin2/snow">一个简单的下雪和下雨效果</a></li>
+<li>🔥 <a href="https://yechuanjie.com/lottie_demo/#/">lottie动画</a></li>
   
 </ul>
  
