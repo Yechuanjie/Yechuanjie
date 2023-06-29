@@ -27,7 +27,10 @@
 
 🏢 目前在一家在线教育公司工作，坐标重庆
 
-<img align="right"  src="http://assets.lxqnsys.com/%E5%8D%83%E5%BA%93%E7%BD%91_%E7%BC%96%E7%A8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%86%99%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%89%A9_%E5%85%83%E7%B4%A0%E7%BC%96%E5%8F%B713134110.png" width="200" />
+<img align="right"  src="https://assets-global.website-files.com/625816a3416990dd61391b9b/6443e2a9454f3cc6b0d8ba37_62964899d2fc581b29eebdf7_Feature---2.webp" width="200" />
+
+<img align="right"  src="https://assets-global.website-files.com/625816a3416990dd61391b9b/6443e2ca8452f1e8cd16f19a_63fdea5c98e4166b43fec462_Presentation-Image.webp" width="200" />
+
 
 <h2>💡 一些有意思的小项目 ↓</h2>
 
