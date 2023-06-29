@@ -27,9 +27,12 @@
 
 🏢 目前在一家在线教育公司工作，坐标重庆
 
+<img align="right" src="https://assets-global.website-files.com/625816a3416990dd61391b9b/6443e2a9454f3c862dd8ba3c_6296486f53cd62f91e8fd722_432x664---3x.webp" width="200" />
+
 <img align="right"  src="https://assets-global.website-files.com/625816a3416990dd61391b9b/6443e2a9454f3cc6b0d8ba37_62964899d2fc581b29eebdf7_Feature---2.webp" width="200" />
 
-<img align="right"  src="https://assets-global.website-files.com/625816a3416990dd61391b9b/6443e2ca8452f1e8cd16f19a_63fdea5c98e4166b43fec462_Presentation-Image.webp" width="200" />
+
+
 
 
 <h2>💡 一些有意思的小项目 ↓</h2>
