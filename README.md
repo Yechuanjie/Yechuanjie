@@ -1,4 +1,5 @@
 <h4>Hi, there 👋</h1>
+
 <p>My name is Ye Chuanjie, a front-end developer, and currently a team member of an education company. </p>
 
 <div>
@@ -9,3 +10,7 @@
         <img src="https://github.com/Yechuanjie/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
     </a>
 </div>
+
+![YeChuanjie](https://glitch-art.vercel.app/api/simple?word=YeChuanjie)
+
+
