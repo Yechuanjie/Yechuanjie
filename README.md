@@ -11,6 +11,6 @@
     </a>
 </div>
 
-![YeChuanjie](https://glitch-art.vercel.app/api/simple?word=YeChuanjie)
+
 
 
